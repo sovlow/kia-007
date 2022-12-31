@@ -1,1 +1,11 @@
-<h1>test</h1>
+<script>
+  $(document).ready(function(){
+    $("#body").append(`<h1>Namaku Kia</h1>`);
+  });
+</script>
+
+<style>
+
+</style>
+
+<div id="body"></div>
